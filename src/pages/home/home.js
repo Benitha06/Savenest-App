@@ -174,8 +174,7 @@ function Home() {
             you're an individual or want to be part of a team. Our user-friendly
             interface allows for easy organization and retrieval of your saved
             pages. But that's not all we also offer collaborative features for
-            teams. Sign up now and experience the convenience of our saving
-            platform.
+            teams.
           </p>
           <a href="#howwork">
             <Button btnName="Explore more"></Button>
